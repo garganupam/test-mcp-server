@@ -1,0 +1,1 @@
+Created a remote mcp server also deployed on fast mcp cloud used to track your expense on your day to day basis  and  we have added 3 mcp tools in it, first to add the expense that you do, then list_expense for listing you expense from a particular date to a particular date and also summarize the your expenses.
